@@ -10,5 +10,6 @@
           Console.WriteLine("Arigato");
             Console.WriteLine("Arigato");
               Console.WriteLine("Arigato");
+                Console.WriteLine("Arigato");
     }
 }
