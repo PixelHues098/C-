@@ -8,8 +8,11 @@
         Console.WriteLine("Konbanwa");
         Console.WriteLine("Konbanwa");
           Console.WriteLine("Arigato");
-            Console.WriteLine("Arigato");
-              Console.WriteLine("Arigato");
-                Console.WriteLine("Arigato");
+            Console.WriteLine("OHAYOOOO!!!");
+            Console.WriteLine("OHAYOOOO!!!");
+            Console.WriteLine("OHAYOOOO!!!");
+            Console.WriteLine("OHAYOOOO!!!");
+            Console.WriteLine("OHAYOOOO!!!");
+            Console.WriteLine("OHAYOOOO!!!");
     }
 }
